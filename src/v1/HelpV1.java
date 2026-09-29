@@ -4,7 +4,7 @@ public class HelpV1 {
     public static void main(String[] args) throws Exception{
         System.out.println("справка по:");
         System.out.println(" 1. if");
-        System.out.println(" 2. switch");
+        System.out.println(" 2. switch\n");
         System.out.print("Выберите вариант: ");
         char choice;
         choice = (char) System.in.read();
